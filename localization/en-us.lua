@@ -11,7 +11,7 @@ return {
                 name = 'The Benefactor',
                 text = {
                     'Gives {C:money}$#1#{} for each',
-                    'scoring {C:clubs}Club{}suit card',
+                    'scoring {C:clubs}Club{} suit card',
                     'Increases by {C:attention}#2# {}for every scored {C:clubs}Club{} card ',
                     '{C:inactive}(Resets when Round ends).'
                 }
