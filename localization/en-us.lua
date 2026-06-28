@@ -16,6 +16,15 @@ return {
                     '{C:inactive}(Resets when Round ends).'
                 }
                 
+            },
+            j_with_joker3 = {
+
+                name = 'Wither Apostle',
+                text = {
+                    'Gain {C:mult}+#1# Discards{}',
+                    'Unused{C:mult} Discards{} give ',
+                    '{C:money}$1{} each at {C:attention}Blind payout{}.'
+                }
             }
         }
     }

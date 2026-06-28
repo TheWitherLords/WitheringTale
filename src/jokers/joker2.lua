@@ -38,7 +38,7 @@ SMODS.Joker {
 
         end
         if context.end_of_round and not context.blueprint and not context.repetition and not context.individual then
-            card.ability.extra.dollars = card.extra.ability.reset
+            card.ability.extra.dollars = card.ability.extra.reset
             return {
                 message = localize('k_reset')
             }
