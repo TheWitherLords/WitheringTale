@@ -1,8 +1,8 @@
 {
-    "id": "WitheringTalesMod",
-    "Name": "Withering Tales",
-    "author": "WitherLord",
-    "description": "A first time project made by me to test the waters for Balatro.",
+   "id": "WitheringTale",
+    "name": "Withering Tales Mod",
+    "author": ["Wither"],
+    "description": "A mod to test the waters in balatro",
     "prefix": "with",
     "main_file": "main.lua",
     "version": "0.0.1"
